@@ -15,7 +15,7 @@ NodeJS
 
 ##Usage
 
-To create an SVG logo
+To save notes
 
 ##Credits
 
