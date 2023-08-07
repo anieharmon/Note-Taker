@@ -1,12 +1,14 @@
 # Note-Taker
 
-#Challenge 10 SVG Logo Creator
+#Challenge 11 Note Taker
 
-The purpose of this challenge was to create the backend portion for this note saver application
+A note taking application that can write, save, and delete notes. Uses an Express.js backend to save and retrieve note data from a JSO
 
 ##Description
 
-This project allows the user/consumer of this Note-taker to both save notes as well as deleted them if they want to.
+Create an application that can be used to write, save, and delete notes. This application will use an express backend and save and retrieve note data from a JSON file.
+
+
 
 ##Installation
 
